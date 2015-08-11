@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"customer.html",
-  "generationDate":new Date(1438957015342),
+  "generationDate":new Date(1439288997471.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -51,10 +51,10 @@
               "fillType":"solid",
               "color":0xFFF2F2F2},
             "location":{
-              "x":51,
-              "y":0},
+              "x":0,
+              "y":50},
             "size":{
-              "width":749,
+              "width":910,
               "height":900},
             "borderWidth":"-1"},
           "adaptiveStyles":{
@@ -71,10 +71,10 @@
                   "fillType":"solid",
                   "color":0xFFF2F2F2},
                 "location":{
-                  "x":51,
-                  "y":0},
+                  "x":0,
+                  "y":50},
                 "size":{
-                  "width":749,
+                  "width":910,
                   "height":900},
                 "borderWidth":"-1"},
               "adaptiveStyles":{
@@ -89,8 +89,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":70,
-              "y":20},
+              "x":19,
+              "y":70},
             "size":{
               "width":120,
               "height":110}},
@@ -105,8 +105,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":70,
-                  "y":20},
+                  "x":19,
+                  "y":70},
                 "size":{
                   "width":120,
                   "height":110}},
@@ -123,8 +123,8 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":210,
-              "y":20},
+              "x":159,
+              "y":70},
             "size":{
               "width":119,
               "height":24}},
@@ -140,8 +140,8 @@
               "style":{
                 "fontSize":"20px",
                 "location":{
-                  "x":210,
-                  "y":20},
+                  "x":159,
+                  "y":70},
                 "size":{
                   "width":119,
                   "height":24}},
@@ -158,8 +158,8 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":210,
-              "y":54},
+              "x":159,
+              "y":104},
             "size":{
               "width":369,
               "height":24}},
@@ -175,15 +175,48 @@
               "style":{
                 "fontSize":"20px",
                 "location":{
-                  "x":210,
-                  "y":54},
+                  "x":159,
+                  "y":104},
                 "size":{
                   "width":369,
                   "height":24}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"661115ff8d9f4d1c89cfcf780f402f58",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":288,
+              "y":78},
+            "size":{
+              "width":15,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"20634594f1c24492a93fef01772dcd1b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":288,
+                  "y":78},
+                "size":{
+                  "width":15,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u172.png"}}]}},
   "masters":{
     "07fe86b217d14de18fc7ec21783cb4f5":{
       "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
@@ -222,8 +255,8 @@
                 "fillType":"solid",
                 "color":0xFF666666},
               "size":{
-                "width":51,
-                "height":900},
+                "width":910,
+                "height":50},
               "borderWidth":"-1"},
             "adaptiveStyles":{
 },
@@ -239,13 +272,13 @@
                     "fillType":"solid",
                     "color":0xFF666666},
                   "size":{
-                    "width":51,
-                    "height":900},
+                    "width":910,
+                    "height":50},
                   "borderWidth":"-1"},
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u1.png"}},
+              "normal~":"images/home/u195.png"}},
 {
             "id":"87b90fae15cd415db6534975924189f4",
             "label":"",
@@ -272,7 +305,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u3.png"}}]}}},
+              "normal~":"images/home/u197.png"}}]}}},
   "objectPaths":{
     "ccc9e8c91d1841d8bede2140aead50ff":{
       "scriptId":"u0",
@@ -299,4 +332,8 @@
     "ace4f80c96ef47ba86683a4c8d9afdb2":{
       "scriptId":"u11"},
     "55af84ae67454579b0f5a7d97b45a75b":{
-      "scriptId":"u12"}}});
+      "scriptId":"u12"},
+    "661115ff8d9f4d1c89cfcf780f402f58":{
+      "scriptId":"u13"},
+    "20634594f1c24492a93fef01772dcd1b":{
+      "scriptId":"u14"}}});
