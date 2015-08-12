@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"statistics.html",
-  "generationDate":new Date(1439391547405.72),
+  "generationDate":new Date(1439394926718.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -186,7 +186,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u195.png"}},
+              "normal~":"images/employee_dashboard/u130.png"}},
 {
             "id":"87b90fae15cd415db6534975924189f4",
             "label":"",
@@ -213,7 +213,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u197.png"}}]}},
+              "normal~":"images/employee_dashboard/u132.png"}}]}},
     "d13c2508869342febb92430faaa0f084":{
       "packageId":"d13c2508869342febb92430faaa0f084",
       "type":"Axure:Master",

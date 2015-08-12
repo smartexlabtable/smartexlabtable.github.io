@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"client__manager_view_.html",
-  "generationDate":new Date(1439391547833.73),
+  "generationDate":new Date(1439394927055.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/project__manager_view__1/u9.png"}},
+            "normal~":"images/project__employee_view_/u8.png"}},
 {
           "id":"40e1962539144bcb9b84cc50cdfc00dd",
           "label":"",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/project__manager_view_/u7.png"}},
+            "normal~":"images/employee_profile/u10.png"}},
 {
           "id":"a719096a19c64154977ae86c80047870",
           "label":"",
@@ -227,7 +227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}}]}},
+            "normal~":"images/employee_dashboard/u114.png"}}]}},
   "masters":{
     "07fe86b217d14de18fc7ec21783cb4f5":{
       "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
@@ -289,7 +289,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u195.png"}},
+              "normal~":"images/employee_dashboard/u130.png"}},
 {
             "id":"87b90fae15cd415db6534975924189f4",
             "label":"",
@@ -316,7 +316,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u197.png"}}]}},
+              "normal~":"images/employee_dashboard/u132.png"}}]}},
     "d13c2508869342febb92430faaa0f084":{
       "packageId":"d13c2508869342febb92430faaa0f084",
       "type":"Axure:Master",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"manager_dashboard.html",
-  "generationDate":new Date(1439391547216.58),
+  "generationDate":new Date(1439394926543.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"bcd8e64c71a744bc89d105454a80b072",
           "label":"",
@@ -140,7 +140,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"6a8de9a840554c98bbef01f1e7b4eaaa",
           "label":"",
@@ -183,7 +183,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"a73524ec1cbd4d47a6734318fd910069",
           "label":"",
@@ -226,7 +226,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"a60aa5ca69bb421784c4ff6b4b4e18f5",
           "label":"",
@@ -269,7 +269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"59866784bfab433eaf53dfa52fb81bc7",
           "label":"",
@@ -312,7 +312,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"587a8712ee3046e7aded1d966a9e525b",
           "label":"",
@@ -355,7 +355,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"3bab1c588f55477c8d84992d8fb46f00",
           "label":"",
@@ -398,7 +398,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"0cddef0ca9f34de3ae713a10342a099b",
           "label":"",
@@ -441,7 +441,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"4c2027de49e84dbc93f24bffff1e511d",
           "label":"",
@@ -484,7 +484,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"05a36a696a6f4790b70635ba81a5950e",
           "label":"",
@@ -527,7 +527,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"a91778c24d6f4bb8a993624cc99e5665",
           "label":"",
@@ -570,7 +570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u22.png"}},
+            "normal~":"images/employee_dashboard/u58.png"}},
 {
           "id":"0d576f01bd254084b69915f8473a9f4d",
           "label":"",
@@ -613,7 +613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"2c017c93dd014393849581a0ac641217",
           "label":"",
@@ -656,7 +656,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"d63979f865864a6f9ae9775a4136b98f",
           "label":"",
@@ -765,7 +765,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"a7a62e773cf0465e9df1831e912d4fcb",
           "label":"",
@@ -808,7 +808,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"f74e552581f247708cee8239782d49e2",
           "label":"",
@@ -851,7 +851,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"aee024eb29de4af7943a8a195735f006",
           "label":"",
@@ -894,7 +894,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"1f4b6e2ca94b475092209e7f774aa9aa",
           "label":"",
@@ -937,7 +937,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"58e54dd5a77d44ebbb15eb3ce964150e",
           "label":"",
@@ -980,7 +980,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"ac670da36b9d4d229d5c0c0e94f97d36",
           "label":"",
@@ -1023,7 +1023,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"84f5da6eeda942a6a784abfb6d176c1b",
           "label":"",
@@ -1066,7 +1066,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"4169620ad76549f3a23321e78888f9fa",
           "label":"",
@@ -1109,7 +1109,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"6ebcb40e43b84af2a6e5e63ab9fc9b55",
           "label":"",
@@ -1152,7 +1152,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"587b0f242db54a078f79d849f63ead2e",
           "label":"",
@@ -1195,7 +1195,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"40af9d99ab7548528be4e56a88029349",
           "label":"",
@@ -1238,7 +1238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u22.png"}},
+            "normal~":"images/employee_dashboard/u58.png"}},
 {
           "id":"c2c0b4727fa44f3e92a8a5c45312df73",
           "label":"",
@@ -1281,7 +1281,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"e060f3b371e1422d9c0a492d12a698e2",
           "label":"",
@@ -1324,7 +1324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"b95493cf360047c5aafe4a4986b5e845",
           "label":"",
@@ -1437,7 +1437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"4247f15907d746b2837dd02f090e6715",
           "label":"",
@@ -1480,7 +1480,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"b1acf75d9271481696cee47846cdf8cf",
           "label":"",
@@ -1523,7 +1523,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"dff13d040c82468a8e8b55d891c634e3",
           "label":"",
@@ -1566,7 +1566,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"32a4234f0ec34d9cad31599b4b271710",
           "label":"",
@@ -1609,7 +1609,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"9fafbf818f484ff7987da0413456736f",
           "label":"",
@@ -1652,7 +1652,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"507ffbe777884585895504098a7c7c21",
           "label":"",
@@ -1695,7 +1695,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"73c5b515174642eaa11c3e342256a13c",
           "label":"",
@@ -1738,7 +1738,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"a32cea75292d4fd4b9a83a380c21244a",
           "label":"",
@@ -1781,7 +1781,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"b43f6d02bb8c4dd6939042dace7f0303",
           "label":"",
@@ -1824,7 +1824,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u2.png"}},
+            "normal~":"images/employee_dashboard/u29.png"}},
 {
           "id":"06e4f669221d4d52bd71ce436f8362ff",
           "label":"",
@@ -1867,7 +1867,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u0.png"}},
+            "normal~":"images/employee_dashboard/u27.png"}},
 {
           "id":"70cbe9b250704e0f846cc404e02031d2",
           "label":"",
@@ -1910,7 +1910,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u22.png"}},
+            "normal~":"images/employee_dashboard/u58.png"}},
 {
           "id":"f41a827e4b90417fbc272ebedbb85dc3",
           "label":"",
@@ -1953,7 +1953,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"ba0780f2e05440db954c858fe485bcee",
           "label":"",
@@ -1996,7 +1996,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u24.png"}},
+            "normal~":"images/employee_dashboard/u60.png"}},
 {
           "id":"57d3c031619f4326be6441a80275234c",
           "label":"",
@@ -2268,7 +2268,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u30.png"}},
+            "normal~":"images/employee_dashboard/u3.png"}},
 {
           "id":"dd7ea7ffa4694b41a4c1db7e157ec3c6",
           "label":"",
@@ -2433,7 +2433,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}},
+            "normal~":"images/employee_dashboard/u114.png"}},
 {
           "id":"5ea70e22d5ef40c9a8f011092fe27f33",
           "label":"",
@@ -2466,7 +2466,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}},
+            "normal~":"images/employee_dashboard/u114.png"}},
 {
           "id":"964702c6f6ff4454a97435554c3342f6",
           "label":"",
@@ -2499,7 +2499,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}},
+            "normal~":"images/employee_dashboard/u114.png"}},
 {
           "id":"3c195b89ac88428f8015e342b4f5822f",
           "label":"",
@@ -2532,7 +2532,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}},
+            "normal~":"images/employee_dashboard/u114.png"}},
 {
           "id":"9ad54420424d494cab16f747c56764f1",
           "label":"",
@@ -2565,7 +2565,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}},
+            "normal~":"images/employee_dashboard/u114.png"}},
 {
           "id":"029c5df5aa7d4030b1991f9f0927e052",
           "label":"",
@@ -2617,7 +2617,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/manager_dashboard/u192.png"}},
+            "normal~":"images/employee_dashboard/u120.png"}},
 {
           "id":"5a854949c4d946df8299d23ce4fcb257",
           "label":"",
@@ -2639,7 +2639,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/manager_dashboard/u194_line.png"}},
+            "line~":"images/employee_dashboard/u122_line.png"}},
 {
           "id":"62d89d2ed1fa4d13b8692089eead41aa",
           "label":"",
@@ -2661,7 +2661,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/manager_dashboard/u194_line.png"}},
+            "line~":"images/employee_dashboard/u122_line.png"}},
 {
           "id":"bbf0596bb5a0440fb03ff2c7d94cbdbc",
           "label":"",
@@ -2709,7 +2709,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/manager_dashboard/u194_line.png"}}]}},
+            "line~":"images/employee_dashboard/u122_line.png"}}]}},
   "masters":{
     "be7073aac4c64a34b14aed54426ce38b":{
       "packageId":"be7073aac4c64a34b14aed54426ce38b",
@@ -2763,9 +2763,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u28.png",
-              "normal~":"images/home/u28.png",
-              "normal~":"images/home/u28.png"}},
+              "normal~":"images/employee_dashboard/u1.png",
+              "normal~":"images/employee_dashboard/u1.png",
+              "normal~":"images/employee_dashboard/u1.png"}},
 {
             "id":"5aa9f24fa1f847428038cff657a52835",
             "label":"",
@@ -2798,9 +2798,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u30.png",
-              "normal~":"images/home/u30.png",
-              "normal~":"images/home/u30.png"}},
+              "normal~":"images/employee_dashboard/u3.png",
+              "normal~":"images/employee_dashboard/u3.png",
+              "normal~":"images/employee_dashboard/u3.png"}},
 {
             "id":"d21069e9284d485d97c317010090445b",
             "label":"",
@@ -2839,9 +2839,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u36.png",
-              "normal~":"images/home/u36.png",
-              "normal~":"images/home/u36.png"}},
+              "normal~":"images/employee_dashboard/u5.png",
+              "normal~":"images/employee_dashboard/u5.png",
+              "normal~":"images/employee_dashboard/u5.png"}},
 {
             "id":"dc080cf0e4b4419389884c4624eebbe7",
             "label":"",
@@ -2889,9 +2889,9 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"f7f77d9e68d140b588a8703e6677032c",
             "label":"",
@@ -2924,9 +2924,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"5c4fcba9f109431380860fa3f6a99798",
             "label":"",
@@ -2974,9 +2974,9 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png",
-              "normal~":"images/home/u38.png"}}]}},
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png",
+              "normal~":"images/employee_dashboard/u7.png"}}]}},
     "b510e28407294397b41b98da85655457":{
       "packageId":"b510e28407294397b41b98da85655457",
       "type":"Axure:Master",
@@ -3029,7 +3029,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u28.png"}},
+              "normal~":"images/employee_dashboard/u1.png"}},
 {
             "id":"480fe6165f564643b232df622bc6dc5a",
             "label":"",
@@ -3062,7 +3062,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u30.png"}},
+              "normal~":"images/employee_dashboard/u3.png"}},
 {
             "id":"e7747b060ae349dcb1c57d9b4ba7d570",
             "label":"",
@@ -3101,7 +3101,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u36.png"}},
+              "normal~":"images/employee_dashboard/u5.png"}},
 {
             "id":"23b9e6a2d5cc428ba45fb858229801f1",
             "label":"",
@@ -3149,7 +3149,7 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"896e1e0a765b45fe9b30fa7fd54bb184",
             "label":"",
@@ -3182,7 +3182,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"f82d423e05c04fc29224bae47d58f49c",
             "label":"",
@@ -3225,12 +3225,12 @@
                         "description":"Open Project (manager view) in Current Window",
                         "target":{
                           "targetType":"page",
-                          "url":"project__manager_view__1.html",
+                          "url":"project__manager_view_.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png"}}]}},
+              "normal~":"images/employee_dashboard/u7.png"}}]}},
     "63be390f86a4403fb2447dd09af8ecba":{
       "packageId":"63be390f86a4403fb2447dd09af8ecba",
       "type":"Axure:Master",
@@ -3283,7 +3283,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u28.png"}},
+              "normal~":"images/employee_dashboard/u1.png"}},
 {
             "id":"343df44a2bd54facbd1f6331cc9d1af8",
             "label":"",
@@ -3322,7 +3322,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u36.png"}},
+              "normal~":"images/employee_dashboard/u5.png"}},
 {
             "id":"544d2927f0f34e8a8eee8955c5290ee3",
             "label":"",
@@ -3362,15 +3362,15 @@
                     "isNewIfGroup":false,
                     "actions":[{
                         "action":"linkWindow",
-                        "description":"Open Copy edit (manager view) in Current Window",
+                        "description":"Open Client edit (manager view) in Current Window",
                         "target":{
                           "targetType":"page",
-                          "url":"copy_edit__manager_view_.html",
+                          "url":"client_edit__manager_view_.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"8569027e44d04fdcbd7acabd079f0dd0",
             "label":"",
@@ -3403,7 +3403,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u38.png"}},
+              "normal~":"images/employee_dashboard/u7.png"}},
 {
             "id":"de906a86908e4326a4ea842d0d0f41e5",
             "label":"",
@@ -3451,7 +3451,7 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/home/u38.png"}}]}},
+              "normal~":"images/employee_dashboard/u7.png"}}]}},
     "07fe86b217d14de18fc7ec21783cb4f5":{
       "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
       "type":"Axure:Master",
@@ -3512,7 +3512,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u195.png"}},
+              "normal~":"images/employee_dashboard/u130.png"}},
 {
             "id":"87b90fae15cd415db6534975924189f4",
             "label":"",
@@ -3539,7 +3539,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u197.png"}}]}},
+              "normal~":"images/employee_dashboard/u132.png"}}]}},
     "d13c2508869342febb92430faaa0f084":{
       "packageId":"d13c2508869342febb92430faaa0f084",
       "type":"Axure:Master",

@@ -13,39 +13,7 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"Home",
-        "type":"Wireframe",
-        "url":"home.html"},
-{
-        "pageName":"Project (manager view)",
-        "type":"Wireframe",
-        "url":"project__manager_view_.html"},
-{
-        "pageName":"Manager board",
-        "type":"Wireframe",
-        "url":"manager_board.html"},
-{
-        "pageName":"Project (employee view)",
-        "type":"Wireframe",
-        "url":"project__employee_view_.html"},
-{
-        "pageName":"Employee profile",
-        "type":"Wireframe",
-        "url":"employee_profile.html"},
-{
-        "pageName":"Project (client view)",
-        "type":"Wireframe",
-        "url":"project__client_view_.html"},
-{
-        "pageName":"Client profile",
-        "type":"Wireframe",
-        "url":"client_profile.html"},
-{
-        "pageName":"Client dashboard",
-        "type":"Wireframe",
-        "url":"client_dashboard.html"},
-{
-        "pageName":"Employees",
+        "pageName":"Employee",
         "type":"Folder",
         "url":"",
         "children":[{
@@ -55,7 +23,7 @@
 {
             "pageName":"Employee profile",
             "type":"Wireframe",
-            "url":"employee_profile_1.html"},
+            "url":"employee_profile.html"},
 {
             "pageName":"Employee (employee view)",
             "type":"Wireframe",
@@ -63,19 +31,19 @@
 {
             "pageName":"Project (employee view)",
             "type":"Wireframe",
-            "url":"project__employee_view__1.html"}]},
+            "url":"project__employee_view_.html"}]},
 {
-        "pageName":"Clients",
+        "pageName":"Client",
         "type":"Folder",
         "url":"",
         "children":[{
             "pageName":"Client dashboard",
             "type":"Wireframe",
-            "url":"client_dashboard_1.html"},
+            "url":"client_dashboard.html"},
 {
             "pageName":"Client profile",
             "type":"Wireframe",
-            "url":"client_profile_1.html"},
+            "url":"client_profile.html"},
 {
             "pageName":"Employee (client view)",
             "type":"Wireframe",
@@ -83,7 +51,7 @@
 {
             "pageName":"Project (client view)",
             "type":"Wireframe",
-            "url":"project__client_view__1.html"}]},
+            "url":"project__client_view_.html"}]},
 {
         "pageName":"Manager",
         "type":"Folder",
@@ -111,7 +79,7 @@
 {
             "pageName":"Project (manager view)",
             "type":"Wireframe",
-            "url":"project__manager_view__1.html"},
+            "url":"project__manager_view_.html"},
 {
             "pageName":"Project edit (manager view)",
             "type":"Wireframe",
@@ -121,9 +89,9 @@
             "type":"Wireframe",
             "url":"client__manager_view_.html"},
 {
-            "pageName":"Copy edit (manager view)",
+            "pageName":"Client edit (manager view)",
             "type":"Wireframe",
-            "url":"copy_edit__manager_view_.html"}]}]},
+            "url":"client_edit__manager_view_.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

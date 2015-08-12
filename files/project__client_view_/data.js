@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"project__client_view_.html",
-  "generationDate":new Date(1439391547021.41),
+  "generationDate":new Date(1439394926423.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"ced61e0820b24b338644b4a9375ecf76",
+    "packageId":"fe044d3b3b3845b7a1ee1f36ea747c78",
     "type":"Axure:Page",
     "name":"Project (client view)",
     "notes":{
@@ -30,18 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"6017e158ae3f426c875e97d1014e7004",
-          "label":"",
-          "type":"referenceDiagramObject",
-          "styleType":"referenceDiagramObject",
-          "visible":true,
-          "style":{
-},
-          "adaptiveStyles":{
-},
-          "masterId":"07fe86b217d14de18fc7ec21783cb4f5"},
-{
-          "id":"674164c4b45c44c0a28f76093d0eb0d1",
+          "id":"7ee9948a8d42484c9757162bd263503f",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -54,13 +43,13 @@
               "x":0,
               "y":50},
             "size":{
-              "width":910,
+              "width":1100,
               "height":900},
             "borderWidth":"-1"},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"e698d0fe99474394bd2a078ad9fedbe3",
+              "id":"73c8380ebf8a4dce992bac5239872f3e",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -74,15 +63,15 @@
                   "x":0,
                   "y":50},
                 "size":{
-                  "width":910,
+                  "width":1100,
                   "height":900},
                 "borderWidth":"-1"},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/project__manager_view_/u5.png"}},
+            "normal~":"images/project__employee_view_/u8.png"}},
 {
-          "id":"a4c399d545fa4d689ea207f5022fd3b2",
+          "id":"0cf60d557b4a4f47af4d2778b97bf617",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -97,7 +86,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"302aa6b14fde4092b174009c1f67d77c",
+              "id":"2d30e95c2b2a4aa1a6f814908bfccce1",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -113,9 +102,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/project__manager_view_/u7.png"}},
+            "normal~":"images/employee_profile/u10.png"}},
 {
-          "id":"dfe03d591b0946ecbaf9b603827356d3",
+          "id":"a37ad5a4bc684be78899a0c93e7b93df",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -131,7 +120,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"27c9128ddd864e30b9a4a71bac2fa042",
+              "id":"23bbeb66a73f4151bdf05c00a00fe6d0",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -150,7 +139,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"63c5de869c0b4f8aa5a534e5ce4e8f16",
+          "id":"54bc58c7d12740b0aaaa8d798047c1c4",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -166,7 +155,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"1ff9b10f21b64ae68bce3f6ec545c6f1",
+              "id":"f1ba6301a5874d7f9ac0f0b059147ad6",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -185,7 +174,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"f3ef49f836cd41e2a3aedc767829cfe0",
+          "id":"ec2a061c6f6f4dbf948e053bdc2d444c",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -201,7 +190,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"a33d765a42b44978b98b0a246fe014ac",
+              "id":"ea58c72ef58f4b32bb31c4a7035ef2b3",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -220,7 +209,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"937bb20ebc074350ad25d572a0065f79",
+          "id":"a7afb8e911704b6c93d938c8444f5891",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -236,7 +225,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"42b5ae342192453a948bd61bd35c25ba",
+              "id":"91b4c2109a8e4b2db766c18a5a38dd3a",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -255,7 +244,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"831aa63046b24e69b3f64af48c1bc8a1",
+          "id":"bfaabcac6593475ebfc49791a9b99c25",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -270,7 +259,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"0ec37536682a449982306a39dfca9780",
+              "id":"65824e19163b4f36a8bede3ca41a2cab",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -286,7 +275,29 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/home/u172.png"}}]}},
+            "normal~":"images/employee_dashboard/u114.png"}},
+{
+          "id":"5841f7faeeaa46fb9bdc33f333f996df",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"07fe86b217d14de18fc7ec21783cb4f5"},
+{
+          "id":"f588d9aea09843d19828bd1a2907947f",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"7960479542a744d09a89949d89357fee"}]}},
   "masters":{
     "07fe86b217d14de18fc7ec21783cb4f5":{
       "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
@@ -348,7 +359,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u195.png"}},
+              "normal~":"images/employee_dashboard/u130.png"}},
 {
             "id":"87b90fae15cd415db6534975924189f4",
             "label":"",
@@ -375,43 +386,135 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/home/u197.png"}}]}}},
+              "normal~":"images/employee_dashboard/u132.png"}}]}},
+    "7960479542a744d09a89949d89357fee":{
+      "packageId":"7960479542a744d09a89949d89357fee",
+      "type":"Axure:Master",
+      "name":"Client menu",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"c1c2bf7a73b142e98889e67c858f6199",
+            "label":"",
+            "type":"button",
+            "styleType":"button",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":70,
+                "y":15},
+              "size":{
+                "width":100,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Client dashboard in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"client_dashboard.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"532b2c922e8e4042a2f400488f29927e",
+            "label":"",
+            "type":"button",
+            "styleType":"button",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":180,
+                "y":15},
+              "size":{
+                "width":100,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Client profile in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"client_profile.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true}]}}},
   "objectPaths":{
-    "6017e158ae3f426c875e97d1014e7004":{
-      "scriptId":"u0",
-      "c485460a46e745c5bdfabc2346651b2b":{
-        "scriptId":"u1"},
-      "8a06bdec040a4460953e2c3eecc03dc7":{
-        "scriptId":"u2"},
-      "87b90fae15cd415db6534975924189f4":{
-        "scriptId":"u3"},
-      "05a1522716b846daa9ece22c4f685903":{
-        "scriptId":"u4"}},
-    "674164c4b45c44c0a28f76093d0eb0d1":{
+    "7ee9948a8d42484c9757162bd263503f":{
+      "scriptId":"u0"},
+    "73c8380ebf8a4dce992bac5239872f3e":{
+      "scriptId":"u1"},
+    "0cf60d557b4a4f47af4d2778b97bf617":{
+      "scriptId":"u2"},
+    "2d30e95c2b2a4aa1a6f814908bfccce1":{
+      "scriptId":"u3"},
+    "a37ad5a4bc684be78899a0c93e7b93df":{
+      "scriptId":"u4"},
+    "23bbeb66a73f4151bdf05c00a00fe6d0":{
       "scriptId":"u5"},
-    "e698d0fe99474394bd2a078ad9fedbe3":{
+    "54bc58c7d12740b0aaaa8d798047c1c4":{
       "scriptId":"u6"},
-    "a4c399d545fa4d689ea207f5022fd3b2":{
+    "f1ba6301a5874d7f9ac0f0b059147ad6":{
       "scriptId":"u7"},
-    "302aa6b14fde4092b174009c1f67d77c":{
+    "ec2a061c6f6f4dbf948e053bdc2d444c":{
       "scriptId":"u8"},
-    "dfe03d591b0946ecbaf9b603827356d3":{
+    "ea58c72ef58f4b32bb31c4a7035ef2b3":{
       "scriptId":"u9"},
-    "27c9128ddd864e30b9a4a71bac2fa042":{
+    "a7afb8e911704b6c93d938c8444f5891":{
       "scriptId":"u10"},
-    "63c5de869c0b4f8aa5a534e5ce4e8f16":{
+    "91b4c2109a8e4b2db766c18a5a38dd3a":{
       "scriptId":"u11"},
-    "1ff9b10f21b64ae68bce3f6ec545c6f1":{
+    "bfaabcac6593475ebfc49791a9b99c25":{
       "scriptId":"u12"},
-    "f3ef49f836cd41e2a3aedc767829cfe0":{
+    "65824e19163b4f36a8bede3ca41a2cab":{
       "scriptId":"u13"},
-    "a33d765a42b44978b98b0a246fe014ac":{
-      "scriptId":"u14"},
-    "937bb20ebc074350ad25d572a0065f79":{
-      "scriptId":"u15"},
-    "42b5ae342192453a948bd61bd35c25ba":{
-      "scriptId":"u16"},
-    "831aa63046b24e69b3f64af48c1bc8a1":{
-      "scriptId":"u17"},
-    "0ec37536682a449982306a39dfca9780":{
-      "scriptId":"u18"}}});
+    "5841f7faeeaa46fb9bdc33f333f996df":{
+      "scriptId":"u14",
+      "c485460a46e745c5bdfabc2346651b2b":{
+        "scriptId":"u15"},
+      "8a06bdec040a4460953e2c3eecc03dc7":{
+        "scriptId":"u16"},
+      "87b90fae15cd415db6534975924189f4":{
+        "scriptId":"u17"},
+      "05a1522716b846daa9ece22c4f685903":{
+        "scriptId":"u18"}},
+    "f588d9aea09843d19828bd1a2907947f":{
+      "scriptId":"u19",
+      "c1c2bf7a73b142e98889e67c858f6199":{
+        "scriptId":"u20"},
+      "532b2c922e8e4042a2f400488f29927e":{
+        "scriptId":"u21"}}}});
