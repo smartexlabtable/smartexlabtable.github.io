@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"home.html",
-  "generationDate":new Date(1439288997257.9),
+  "generationDate":new Date(1439391546669.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4233,7 +4233,7 @@
                 "fillType":"solid",
                 "color":0xFF666666},
               "size":{
-                "width":910,
+                "width":1100,
                 "height":50},
               "borderWidth":"-1"},
             "adaptiveStyles":{
@@ -4250,7 +4250,7 @@
                     "fillType":"solid",
                     "color":0xFF666666},
                   "size":{
-                    "width":910,
+                    "width":1100,
                     "height":50},
                   "borderWidth":"-1"},
                 "adaptiveStyles":{

@@ -1,0 +1,359 @@
+﻿$axure.loadCurrentPage({
+  "url":"statistics.html",
+  "generationDate":new Date(1439391547405.72),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b7f8de1deb4f44b5ba3413d47eaed84f",
+    "type":"Axure:Page",
+    "name":"Statistics",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"25d1f3ffa0304b1ca52f0800a1b2a07d",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"07fe86b217d14de18fc7ec21783cb4f5"},
+{
+          "id":"f719a7a636aa456ba0538dee9a575ddc",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"d13c2508869342febb92430faaa0f084"},
+{
+          "id":"ad272ff75d7f42b8939cfe66057da389",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":0,
+              "y":50},
+            "size":{
+              "width":1100,
+              "height":630},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e69371b0f854b07bcf2e7ca67458866",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":0,
+                  "y":50},
+                "size":{
+                  "width":1100,
+                  "height":630},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/statistics/u9.png"}},
+{
+          "id":"56e5d19eb7234519a21af2d12d0e3dc7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":70},
+            "size":{
+              "width":1060,
+              "height":590}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0150388ca2e6456bb3c8d58e3515e20d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":20,
+                  "y":70},
+                "size":{
+                  "width":1060,
+                  "height":590}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/statistics/u11.png"}}]}},
+  "masters":{
+    "07fe86b217d14de18fc7ec21783cb4f5":{
+      "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
+      "type":"Axure:Master",
+      "name":"Menu",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"c485460a46e745c5bdfabc2346651b2b",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF666666},
+              "size":{
+                "width":1100,
+                "height":50},
+              "borderWidth":"-1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8a06bdec040a4460953e2c3eecc03dc7",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF666666},
+                  "size":{
+                    "width":1100,
+                    "height":50},
+                  "borderWidth":"-1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home/u195.png"}},
+{
+            "id":"87b90fae15cd415db6534975924189f4",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":51,
+                "height":50}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"05a1522716b846daa9ece22c4f685903",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":51,
+                    "height":50}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home/u197.png"}}]}},
+    "d13c2508869342febb92430faaa0f084":{
+      "packageId":"d13c2508869342febb92430faaa0f084",
+      "type":"Axure:Master",
+      "name":"Manager menu",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"fcaf49c1aa52423e9e9293bb09970ae5",
+            "label":"",
+            "type":"button",
+            "styleType":"button",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":70,
+                "y":12.5},
+              "size":{
+                "width":100,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Manager dashboard in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"manager_dashboard.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"4b686096096746da9b953bfc4b8300bc",
+            "label":"",
+            "type":"button",
+            "styleType":"button",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":180,
+                "y":12},
+              "size":{
+                "width":100,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Manager profile in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"manager_profile.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"d8259fa082bd49d2ae5b97f7bc482501",
+            "label":"",
+            "type":"button",
+            "styleType":"button",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":290,
+                "y":12},
+              "size":{
+                "width":100,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Statistics in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"statistics.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true}]}}},
+  "objectPaths":{
+    "25d1f3ffa0304b1ca52f0800a1b2a07d":{
+      "scriptId":"u0",
+      "c485460a46e745c5bdfabc2346651b2b":{
+        "scriptId":"u1"},
+      "8a06bdec040a4460953e2c3eecc03dc7":{
+        "scriptId":"u2"},
+      "87b90fae15cd415db6534975924189f4":{
+        "scriptId":"u3"},
+      "05a1522716b846daa9ece22c4f685903":{
+        "scriptId":"u4"}},
+    "f719a7a636aa456ba0538dee9a575ddc":{
+      "scriptId":"u5",
+      "fcaf49c1aa52423e9e9293bb09970ae5":{
+        "scriptId":"u6"},
+      "4b686096096746da9b953bfc4b8300bc":{
+        "scriptId":"u7"},
+      "d8259fa082bd49d2ae5b97f7bc482501":{
+        "scriptId":"u8"}},
+    "ad272ff75d7f42b8939cfe66057da389":{
+      "scriptId":"u9"},
+    "9e69371b0f854b07bcf2e7ca67458866":{
+      "scriptId":"u10"},
+    "56e5d19eb7234519a21af2d12d0e3dc7":{
+      "scriptId":"u11"},
+    "0150388ca2e6456bb3c8d58e3515e20d":{
+      "scriptId":"u12"}}});
