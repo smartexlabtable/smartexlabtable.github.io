@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"manager_profile.html",
-  "generationDate":new Date(1439394926644.74),
+  "generationDate":new Date(1439396100115.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

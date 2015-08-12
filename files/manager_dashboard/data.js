@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"manager_dashboard.html",
-  "generationDate":new Date(1439394926543.68),
+  "generationDate":new Date(1439396100007.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2763,9 +2763,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u1.png",
-              "normal~":"images/employee_dashboard/u1.png",
-              "normal~":"images/employee_dashboard/u1.png"}},
+              "normal~":"images/manager_dashboard/u1.png",
+              "normal~":"images/manager_dashboard/u1.png",
+              "normal~":"images/manager_dashboard/u1.png"}},
 {
             "id":"5aa9f24fa1f847428038cff657a52835",
             "label":"",
@@ -2839,9 +2839,9 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u5.png",
-              "normal~":"images/employee_dashboard/u5.png",
-              "normal~":"images/employee_dashboard/u5.png"}},
+              "normal~":"images/manager_dashboard/u5.png",
+              "normal~":"images/manager_dashboard/u5.png",
+              "normal~":"images/manager_dashboard/u5.png"}},
 {
             "id":"dc080cf0e4b4419389884c4624eebbe7",
             "label":"",
@@ -3029,7 +3029,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u1.png"}},
+              "normal~":"images/manager_dashboard/u1.png"}},
 {
             "id":"480fe6165f564643b232df622bc6dc5a",
             "label":"",
@@ -3101,7 +3101,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u5.png"}},
+              "normal~":"images/manager_dashboard/u5.png"}},
 {
             "id":"23b9e6a2d5cc428ba45fb858229801f1",
             "label":"",
@@ -3283,7 +3283,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u1.png"}},
+              "normal~":"images/manager_dashboard/u1.png"}},
 {
             "id":"343df44a2bd54facbd1f6331cc9d1af8",
             "label":"",
@@ -3322,7 +3322,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/employee_dashboard/u5.png"}},
+              "normal~":"images/manager_dashboard/u5.png"}},
 {
             "id":"544d2927f0f34e8a8eee8955c5290ee3",
             "label":"",

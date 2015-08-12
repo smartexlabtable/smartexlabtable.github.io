@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"client_profile.html",
-  "generationDate":new Date(1439394926281.48),
+  "generationDate":new Date(1439396099711.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -172,7 +172,7 @@
               "x":159,
               "y":104},
             "size":{
-              "width":369,
+              "width":433,
               "height":24}},
           "adaptiveStyles":{
 },
@@ -189,7 +189,7 @@
                   "x":159,
                   "y":104},
                 "size":{
-                  "width":369,
+                  "width":433,
                   "height":24}},
               "adaptiveStyles":{
 }}],
@@ -227,7 +227,42 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/employee_dashboard/u114.png"}}]}},
+            "normal~":"images/employee_dashboard/u114.png"}},
+{
+          "id":"120fafb522a743b6b553005570c2d54b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"20px",
+            "location":{
+              "x":159,
+              "y":128},
+            "size":{
+              "width":415,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9661bb23a0d64653a147b6d1e53be602",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"20px",
+                "location":{
+                  "x":159,
+                  "y":128},
+                "size":{
+                  "width":415,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "07fe86b217d14de18fc7ec21783cb4f5":{
       "packageId":"07fe86b217d14de18fc7ec21783cb4f5",
@@ -439,4 +474,8 @@
     "ea6b3205cb604228a49241ba3cdaf45d":{
       "scriptId":"u16"},
     "76640cc063ea40b3a2a72844a1c23562":{
-      "scriptId":"u17"}}});
+      "scriptId":"u17"},
+    "120fafb522a743b6b553005570c2d54b":{
+      "scriptId":"u18"},
+    "9661bb23a0d64653a147b6d1e53be602":{
+      "scriptId":"u19"}}});
